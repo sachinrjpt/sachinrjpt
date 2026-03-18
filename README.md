@@ -74,7 +74,7 @@
 
 ## 📊 GitHub Stats
 
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinjrpt\&show_icons=true\&theme=radical)
+![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinrjpt\&show_icons=true\&theme=radical)
 
 ---
 
